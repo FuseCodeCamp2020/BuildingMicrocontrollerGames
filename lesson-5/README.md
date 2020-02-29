@@ -10,3 +10,5 @@ In this exercise we'll learn about makecode game blocks.
 In this exercise we'll build a simple game and load onto your micro:bit.
 
 [micro:bit Tele-Potato Game](https://makecode.microbit.org/projects/tele-potato)
+
+[Next lesson ->](../lesson-6)
