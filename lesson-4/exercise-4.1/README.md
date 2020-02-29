@@ -1,6 +1,5 @@
 # Exercise 4.1
-In this exercise we'll build a simple program that uses your micro:bit's Radio. We'll send a message from one micro:bit to another. *For this exercise, you'll need to use two micro:bits.* Note that the browser simulator does support showing two micro:bits at once.
-
+In this exercise we'll build a simple program that uses your micro:bit's Radio. We'll send a message from one micro:bit to another. *For this exercise, you'll need to use two micro:bits.* 
 
 ### step 1
 First, place an **on start** block in your program. From the **Radio** menu, add a **radio set group** block to the **on start** block. Set the value for **radio set group** to a number between 1 and 255. The course coach will assign unique numbers to people in the class to avoid too many people using the same group channel. Next, from the **Radio more** menu, drag the **radio set transmit power** block to the **on start** block. This sets the signal strength of your radio. This number must be between 0 and 7. 3 is a good place to start. Increase the number if you are having trouble transmitting due to distance.
