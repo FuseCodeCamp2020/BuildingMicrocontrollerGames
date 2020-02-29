@@ -5,7 +5,7 @@ In this lesson we will:
 * Load example programs onto your micro:bit
 * Learn how to find example programs to play with
 
-View content in [the presentation](https://github.com/cah-oster/BuildingMicrocontrollerGames/raw/master/building-microcontroller-games-presentation-2020.pptx)
+View content in [the presentation](building-microcontroller-games-presentation-2020.pptx?raw=true)
 
 [Next lesson ->](../lesson-3)
 
