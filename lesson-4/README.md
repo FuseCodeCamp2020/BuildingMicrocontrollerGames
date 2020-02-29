@@ -4,14 +4,16 @@ In Lesson 4, we'll learn about the basics of wireless communication using your m
 ### Exercise 4.1
 In this exercise we'll build a simple program that uses your micro:bit's Radio.
 
-[View exercise 4.1](https://github.com/FuseCodeCamp2020/BuildingMicrocontrollerGames/tree/master/lesson-4/exercise-4.1)
+[View exercise 4.1](exercise-4.1)
 
 ### Exercise 4.2
 In this exercise we'll load a simple game onto your micro:bit that uses the Radio.
 
-[View exercise 4.2](https://github.com/FuseCodeCamp2020/BuildingMicrocontrollerGames/tree/master/lesson-4/exercise-4.2)
+[View exercise 4.2](exercise-4.2)
 
 ### References
 [micro:bit Radio feature documentation](https://makecode.microbit.org/reference/radio)
 
 [micro:bit Bluetooth feature documentation](https://makecode.microbit.org/reference/bluetooth)
+
+[Next lesson ->](../lesson-5)
