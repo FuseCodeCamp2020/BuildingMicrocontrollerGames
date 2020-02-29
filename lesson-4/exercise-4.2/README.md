@@ -1,5 +1,5 @@
 # Exercise 4.2
-In this exercise we'll build a simple program that uses your micro:bit's Radio. We'll send a message from one micro:bit to another. *For this exercise, you'll need to use two micro:bits.* Note that the browser simulator does support showing two micro:bits at once.
+In this exercise we'll build a simple program that uses your micro:bit's Radio. We'll send a message from one micro:bit to another. *For this exercise, you'll need to use two micro:bits.* 
 
 There are two versions of the hide and seek program: **hide-and-seek-simple** (which we will build using blocks), and **hide-and-seek.js** (which cannot be built using blocks). The simple version is easier to program, but excludes some features that make for a better game experience. 
 
