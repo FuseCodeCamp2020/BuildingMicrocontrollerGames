@@ -18,15 +18,15 @@ From the **Logic** menu, place an **if then else** block inside your **on radio 
 ### step 5
 Drag a **show string** block into the **then** statement. Set a message to display when the micro:bits are close to one another. From the **LED** menu, find the **plot bar graph of** block and drag it into the **else** statement. From the **Math** menu, drag a **0 + 0** block and a **0 - 0** block into the first and second position of the **plot bar graph** block. Change the **0 + 0** block to **128 + signal** and change the **0 - 0** block to **128 - 42**. Make sure your program matches the picture below:
 
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.2/hide-and-seek-simple-blockly.png "exercise 4.2 blockly")
+![alt text](hide-and-seek-simple-blockly.png "exercise 4.2 blockly")
 
 ### new blocks menu locations
 Here is where you can find the blocks mentioned in step 1 in the editor menu. All of the new blocks you need are shown within the orange rectangle:
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.2/new-blocks-menu-locations-1.png "exercise 4.2 blockly menu locations 1")
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.2/new-blocks-menu-locations-2.png "exercise 4.2 blockly menu locations 2")
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.2/new-blocks-menu-locations-3.png "exercise 4.2 blockly menu locations 3")
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.2/new-blocks-menu-locations-4.png "exercise 4.2 blockly menu locations 4")
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.2/new-blocks-menu-locations-5.png "exercise 4.2 blockly menu locations 5")
+![alt text](new-blocks-menu-locations-1.png "exercise 4.2 blockly menu locations 1")
+![alt text](new-blocks-menu-locations-2.png "exercise 4.2 blockly menu locations 2")
+![alt text](new-blocks-menu-locations-3.png "exercise 4.2 blockly menu locations 3")
+![alt text](new-blocks-menu-locations-4.png "exercise 4.2 blockly menu locations 4")
+![alt text](new-blocks-menu-locations-5.png "exercise 4.2 blockly menu locations 5")
 
 [Next lesson ->](../../lesson-5)
 

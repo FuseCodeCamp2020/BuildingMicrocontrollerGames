@@ -11,13 +11,13 @@ Drag a **on button pressed** block to your program and assign either button A, b
 ### step 3
 Finally, from the **Radio** menu, drag **on radio received** to your program. Inside this tag is a variable name which contains a reference to the message that was sent to the micro:bit. You can change this variable name if you like. Drag the **show string** block into the **on radio received** block. From the **Variables** menu, drag a variable to the **show string** block. The variable name needs to match the variable name mentioned in the **on radio received** block. In this example, *receivedString* is the variable name.
 
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.1/send-message-blockly.png "exercise 4.1 blockly")
+![alt text](send-message-blockly.png "exercise 4.1 blockly")
 
 ### new blocks menu locations
 Here is where you can find the blocks mentioned in step 1 in the editor menu. All of the new blocks you need are shown within the orange rectangle:
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.1/new-blocks-menu-locations-1.png "exercise 4.1 blockly menu locations 1")
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.1/new-blocks-menu-locations-2.png "exercise 4.1 blockly menu locations 2")
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.1/new-blocks-menu-locations-3.png "exercise 4.1 blockly menu locations 3")
+![alt text](new-blocks-menu-locations-1.png "exercise 4.1 blockly menu locations 1")
+![alt text](new-blocks-menu-locations-2.png "exercise 4.1 blockly menu locations 2")
+![alt text](new-blocks-menu-locations-3.png "exercise 4.1 blockly menu locations 3")
 
 [Next exercise ->](../exercise-4.2)
 
