@@ -7,5 +7,5 @@ In this lesson we will:
 
 View content in [the presentation](https://github.com/cah-oster/BuildingMicrocontrollerGames/raw/master/building-microcontroller-games-presentation-2020.pptx)
 
-
+[Next lesson ->](../lesson-3)
 
