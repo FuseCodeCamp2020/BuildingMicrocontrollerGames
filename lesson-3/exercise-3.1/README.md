@@ -10,10 +10,10 @@ Once you are finished, make sure your micro:bit is plugged into your computer vi
 
 Here is what your program should look like in the code editor:
 
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-3/exercise-3.1/hello-world-blockly.png "exercise 3.1 hello world program")
+![alt text](hello-world-blockly.png "exercise 3.1 hello world program")
 
 ### new blocks menu locations
 Here is where you can find the blocks mentioned in step 1 in the editor menu. All of the new blocks you need are shown within the orange rectangle:
-![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-3/exercise-3.1/new-blocks-menu-locations.png "exercise 3.1 blockly menu locations")
+![alt text](new-blocks-menu-locations.png "exercise 3.1 blockly menu locations")
 
 [Next exercise ->](../exercise-3.2)
