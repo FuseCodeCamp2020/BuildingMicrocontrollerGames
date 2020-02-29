@@ -19,5 +19,5 @@ Here is where you can find the blocks mentioned in step 1 in the editor menu. Al
 ![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.1/new-blocks-menu-locations-2.png "exercise 4.1 blockly menu locations 2")
 ![alt text](https://github.com/fusecodecamp2018/BuildingMicrocontrollerGames/blob/master/lesson-4/exercise-4.1/new-blocks-menu-locations-3.png "exercise 4.1 blockly menu locations 3")
 
-
+[Next exercise ->](../exercise-5.2)
 
